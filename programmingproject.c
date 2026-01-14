@@ -1,7 +1,6 @@
+//Kayla Chege - SCS3/2601/2025
 //Tiffany Njonjo - SCS3/150340/2025
 
-
-    
 #include <stdio.h>
 
 void savePatientData();
