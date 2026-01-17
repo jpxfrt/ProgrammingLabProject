@@ -1,5 +1,7 @@
-//Kayla Chege - SCS3/2601/2025
+
 //Tiffany Njonjo - SCS3/150340/2025
+//Mulwa Muendo - SCS3/150444/2025
+//Kayla Chege - SCS3/2601/2025
 
 #include <stdio.h>
 
